@@ -1,4 +1,4 @@
-# Azure Cloud Foundations Project
+# Azure Free Tier Setup Project
 
 ## Objectives
 - Learn Azure Portal navigation
